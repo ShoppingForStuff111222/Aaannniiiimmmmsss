@@ -1138,5 +1138,5 @@ local keyFrames = {
         ["Left Arm"] = {C1 = CFrame.new(-1.00000095, 0.5, -1.90734863e-06, 0.0164712463, 0, -0.99986434, 0, 1, 0, 0.99986434, 0, 0.0164712463), DesiredAngle = nil},
     }
 },
-)
+}
 return keyFrames
