@@ -1,27 +1,5 @@
 local keyFrames = {
-    {
-        Time = 0.065,
-        Motors = {
-            ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0.0240177661, 0, -0.999711514, 0, 1, 0, 0.999711514, 0, 0.0240177661), DesiredAngle = nil},
-            ["Right Arm"] = {C0 = CFrame.new(1, 0.500000238, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
-            ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
-            ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
-            ["Right Leg"] = {C0 = CFrame.new(1, -1, 0, 0.0397308059, 0, 0.999210417, 0, 1, -0, -0.999210417, 0, 0.0397308059), DesiredAngle = nil},
-            ["Left Arm"] = {C0 = CFrame.new(-1.00000012, 0.500000119, -3.17891363e-07, 0.00274532777, 0, -0.999996245, 0, 1, 0, 0.999996245, 0, 0.00274532777), DesiredAngle = nil},
-        }
-    },
-    
-    {
-        Time = 0.066,
-        Motors = {
-            ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0.11981187, 0, -0.9927966, 0, 1, 0, 0.9927966, 0, 0.11981187), DesiredAngle = nil},
-            ["Right Arm"] = {C0 = CFrame.new(1, 0.500140131, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
-            ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, -4.97089277e-05, 1, 0, 1, 4.97089277e-05), DesiredAngle = nil},
-            ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
-            ["Right Leg"] = {C0 = CFrame.new(1, -1, 0, 0.197401315, 0, 0.980322778, 0, 1, -0, -0.980322778, 0, 0.197401315), DesiredAngle = nil},
-            ["Left Arm"] = {C0 = CFrame.new(-1.00000083, 0.500065982, -1.58945716e-06, 0.0137262279, 0, -0.999905765, 0, 1, 0, 0.999905765, 0, 0.0137262279), DesiredAngle = nil},
-        }
-    },
+  
     
     {
         Time = 0.050,
