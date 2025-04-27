@@ -1,0 +1,168 @@
+{
+    Time = 0.054,
+    Motors = {
+        ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+        ["Right Arm"] = {C0 = CFrame.new(1, 0.5, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
+        ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Right Leg"] = {C0 = CFrame.new(1, -1, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
+        ["Left Arm"] = {C0 = CFrame.new(-1, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+    }
+},
+
+{
+    Time = 0.060,
+    Motors = {
+        ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+        ["Right Arm"] = {C0 = CFrame.new(1.08320212, 0.462032378, -0.0171984229, 0.0566328317, 0.20891884, 0.976291776, -0.240259916, 0.951976538, -0.189778537, -0.969055176, -0.223816097, 0.104107931), DesiredAngle = nil},
+        ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Right Leg"] = {C0 = CFrame.new(1.01874924, -1.16875005, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
+        ["Left Arm"] = {C0 = CFrame.new(-1, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+    }
+},
+
+{
+    Time = 0.056,
+    Motors = {
+        ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+        ["Right Arm"] = {C0 = CFrame.new(1.24849701, 0.386603355, -0.0513659604, 0.0106919855, 0.596409857, 0.802608788, -0.669918478, 0.600163341, -0.437050521, -0.742357612, -0.533009589, 0.405962944), DesiredAngle = nil},
+        ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Right Leg"] = {C0 = CFrame.new(1.02999878, -1.26999998, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
+        ["Left Arm"] = {C0 = CFrame.new(-1, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+    }
+},
+
+{
+    Time = 0.050,
+    Motors = {
+        ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+        ["Right Arm"] = {C0 = CFrame.new(1.35499573, 0.338004768, -0.0733799413, -0.122405142, 0.767788172, 0.628902376, -0.848022938, 0.248302802, -0.468190879, -0.515629649, -0.590632677, 0.620708466), DesiredAngle = nil},
+        ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Right Leg"] = {C0 = CFrame.new(1.02999878, -1.26999998, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
+        ["Left Arm"] = {C0 = CFrame.new(-1, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+    }
+},
+
+{
+    Time = 0.067,
+    Motors = {
+        ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+        ["Right Arm"] = {C0 = CFrame.new(1.49699402, 0.273206711, -0.102731913, -0.383027166, 0.842326105, 0.37917912, -0.904052556, -0.25753808, -0.341120183, -0.189681351, -0.473456204, 0.860151172), DesiredAngle = nil},
+        ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Right Leg"] = {C0 = CFrame.new(1.02999878, -1.26999998, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
+        ["Left Arm"] = {C0 = CFrame.new(-1, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+    }
+},
+
+{
+    Time = 0.066,
+    Motors = {
+        ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+        ["Right Arm"] = {C0 = CFrame.new(1.63899231, 0.208408594, -0.132083893, -0.666990221, 0.723924518, 0.176230967, -0.74126035, -0.668630719, -0.0588731468, 0.0752137899, -0.169900894, 0.982586682), DesiredAngle = nil},
+        ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Right Leg"] = {C0 = CFrame.new(1.02999878, -1.26999998, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
+        ["Left Arm"] = {C0 = CFrame.new(-1, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+    }
+},
+
+{
+    Time = 0.078,
+    Motors = {
+        ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+        ["Right Arm"] = {C0 = CFrame.new(1.6389935, 0.208408535, -0.132083893, -0.983586669, 0.0898347944, 0.156482577, -0.0569528937, -0.977483869, 0.203178808, 0.171211839, 0.190931842, 0.96655643), DesiredAngle = nil},
+        ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Right Leg"] = {C0 = CFrame.new(1.02999878, -1.26999998, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
+        ["Left Arm"] = {C0 = CFrame.new(-1, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+    }
+},
+
+{
+    Time = 0.055,
+    Motors = {
+        ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+        ["Right Arm"] = {C0 = CFrame.new(1.63899446, 0.208408475, -0.132083893, -0.840786278, -0.483117342, 0.244286776, 0.534352481, -0.813002825, 0.231287494, 0.0868669748, 0.324998647, 0.941716492), DesiredAngle = nil},
+        ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Right Leg"] = {C0 = CFrame.new(1.02999878, -1.26999998, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
+        ["Left Arm"] = {C0 = CFrame.new(-1, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+    }
+},
+
+{
+    Time = 0.067,
+    Motors = {
+        ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+        ["Right Arm"] = {C0 = CFrame.new(1.63899565, 0.208408386, -0.132083893, -0.303966522, -0.91715765, 0.257732987, 0.952511311, -0.297710896, 0.0639566183, 0.0180715919, 0.264934212, 0.964097142), DesiredAngle = nil},
+        ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Right Leg"] = {C0 = CFrame.new(1.02999878, -1.26999998, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
+        ["Left Arm"] = {C0 = CFrame.new(-1, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+    }
+},
+
+{
+    Time = 0.067,
+    Motors = {
+        ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+        ["Right Arm"] = {C0 = CFrame.new(1.50912631, 0.211770594, -0.134033203, 0.0250115693, -0.984030962, 0.176231086, 0.998155296, 0.0148268938, -0.058873266, 0.0553201735, 0.177378595, 0.982586622), DesiredAngle = nil},
+        ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Right Leg"] = {C0 = CFrame.new(1.02999878, -1.26999998, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
+        ["Left Arm"] = {C0 = CFrame.new(-1, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+    }
+},
+
+{
+    Time = 0.067,
+    Motors = {
+        ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+        ["Right Arm"] = {C0 = CFrame.new(1.24938762, 0.218495071, -0.137931824, 0.0250115693, -0.984030962, 0.176231086, 0.998155296, 0.0148268938, -0.058873266, 0.0553201735, 0.177378595, 0.982586622), DesiredAngle = nil},
+        ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Right Leg"] = {C0 = CFrame.new(1.02999878, -1.26999998, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
+        ["Left Arm"] = {C0 = CFrame.new(-1, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+    }
+},
+
+{
+    Time = 0.066,
+    Motors = {
+        ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+        ["Right Arm"] = {C0 = CFrame.new(1.11311793, 0.295172334, -0.13212128, 0.242177397, -0.916841149, 0.317415327, 0.960278451, 0.273244262, 0.0565941036, -0.138619691, 0.291101277, 0.946596384), DesiredAngle = nil},
+        ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Right Leg"] = {C0 = CFrame.new(1.02999878, -1.26999998, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
+        ["Left Arm"] = {C0 = CFrame.new(-1, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+    }
+},
+
+{
+    Time = 0.050,
+    Motors = {
+        ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+        ["Right Arm"] = {C0 = CFrame.new(1.10351753, 0.405144811, -0.120481506, 0.486755103, -0.686452508, 0.540233731, 0.753776848, 0.642610073, 0.137378544, -0.4414635, 0.340345919, 0.830225706), DesiredAngle = nil},
+        ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Right Leg"] = {C0 = CFrame.new(1.02999878, -1.26999998, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
+        ["Left Arm"] = {C0 = CFrame.new(-1, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+    }
+},
+
+{
+    Time = 0.066,
+    Motors = {
+        ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+        ["Right Arm"] = {C0 = CFrame.new(1.09071696, 0.5517748, -0.104961805, 0.588114262, -0.215759695, 0.779467404, 0.273722112, 0.959985077, 0.059202224, -0.761050522, 0.178539798, 0.623639107), DesiredAngle = nil},
+        ["Head"] = {C0 = CFrame.new(0, 1, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Torso"] = {C0 = CFrame.new(0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 1, 0), DesiredAngle = nil},
+        ["Right Leg"] = {C0 = CFrame.new(1.02999878, -1.26999998, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
+        ["Left Arm"] = {C0 = CFrame.new(-1, 0.5, 0, 0, 0, -1, 0, 1, 0, 1, 0, 0), DesiredAngle = nil},
+    }
+},
+
