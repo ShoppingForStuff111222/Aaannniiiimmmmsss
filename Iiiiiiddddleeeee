@@ -2,7 +2,7 @@ local keyFrames = {
   
     
     {
-        Time = 0.050,
+        Time = 0.3,
         Motors = {
             ["Left Leg"] = {C0 = CFrame.new(-1, -1, 0, 0.143622071, 0, -0.989632607, 0, 1, 0, 0.989632607, 0, 0.143622071), DesiredAngle = nil},
             ["Right Arm"] = {C0 = CFrame.new(1, 0.500688672, 0, 0, 0, 1, 0, 1, 0, -1, 0, 0), DesiredAngle = nil},
