@@ -1,3 +1,4 @@
+print("SNOW")
 local keyFrames = {
 
 {
